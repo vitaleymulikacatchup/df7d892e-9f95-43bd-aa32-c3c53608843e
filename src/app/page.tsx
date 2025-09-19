@@ -20,7 +20,6 @@ export default function Home() {
             { name: "Footer", id: "footer" }
           ]}
           logoSrc="/images/logo.svg"
-          logoAlt="NeonRetro Memeverse Logo"
           buttonText="Join the Memeverse"
           onButtonClick={() => {}}
         />
